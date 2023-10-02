@@ -30,4 +30,4 @@ O objetivo desta aplicação é permitir que os clientes agendem serviços em um
 
 # Informações de contato
 
-Para mais informações, entre em contato conosco pelo email beauty.salon.app@gmail.com.
+Para mais informações, entre em contato conosco pelo email lucasoliver1205@gmail.com.
